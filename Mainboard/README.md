@@ -269,7 +269,7 @@ For example, CR2032 MUST NOT be used, it cannot be charged and will likely be da
 
 RTC battery is used for storing persistent but resettable information.
 This includes the time and DRAM training. Disconnection will result in deletion of that information.
-If no battery is connection, DRAM training needs to happen on every boot, slowing down the boot process significantly.
+If no battery is connected, DRAM training needs to happen on every boot, slowing down the boot process significantly.
 
 ### Onboard RTC Battery
 
