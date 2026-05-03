@@ -7,7 +7,7 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0
 
 ## Pinout
 
-The Fingerprint Reader resides on the Input Cover and connects though the Touchpad.
+The Fingerprint Reader resides on the Input Cover and connects through the Touchpad.
 All of its signals are directly passed to the Input Cover Interface described in the
 Mainboard documentation. The connector used is Kyocera 046809610110846+.
 
